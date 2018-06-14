@@ -8,4 +8,4 @@ Require requests 需要安装requests模组 http://docs.python-requests.org/en/m
 
 
 
-!(https://github.com/einsteinfantasy/pug-data_crawler/blob/master/demo.png)
+!['demo'](https://github.com/einsteinfantasy/pug-data_crawler/blob/master/demo.png)
